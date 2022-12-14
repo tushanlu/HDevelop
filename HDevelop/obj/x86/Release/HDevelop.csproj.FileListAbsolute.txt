@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\HDevelop\HDevelop\bin\x86\Release\HDevelop.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\HDevelop\HDevelop\bin\x86\Release\HDevelop.exe
+c:\users\administrator\documents\visual studio 2015\Projects\HDevelop\HDevelop\bin\x86\Release\HDevelop.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\HDevelop\HDevelop\obj\x86\Release\HDevelop.exe
+c:\users\administrator\documents\visual studio 2015\Projects\HDevelop\HDevelop\obj\x86\Release\HDevelop.pdb

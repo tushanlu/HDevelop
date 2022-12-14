@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2015\Projects\HDevelop\HDevelop\bin\x86\Debug\HDevelop.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\HDevelop\HDevelop\bin\x86\Debug\HDevelop.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\HDevelop\HDevelop\bin\x86\Debug\HDevelop.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\HDevelop\HDevelop\obj\x86\Debug\HDevelop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\HDevelop\HDevelop\obj\x86\Debug\HDevelop.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\HDevelop\HDevelop\obj\x86\Debug\HDevelop.pdb
+D:\Note\C#\HDevelop\HDevelop\bin\x86\Debug\HDevelop.exe.config
+D:\Note\C#\HDevelop\HDevelop\obj\x86\Debug\HDevelop.exe
+D:\Note\C#\HDevelop\HDevelop\obj\x86\Debug\HDevelop.pdb
+D:\Note\C#\HDevelop\HDevelop\bin\x86\Debug\HDevelop.exe
+D:\Note\C#\HDevelop\HDevelop\bin\x86\Debug\HDevelop.pdb
+D:\Note\C#\HDevelop\HDevelop\obj\x86\Debug\HDevelop.csprojResolveAssemblyReference.cache

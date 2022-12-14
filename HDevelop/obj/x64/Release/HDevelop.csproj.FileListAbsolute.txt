@@ -1,0 +1,6 @@
+D:\Program Files\HDevelop\HDevelop\bin\x64\Release\HDevelop.exe.config
+D:\Program Files\HDevelop\HDevelop\bin\x64\Release\HDevelop.exe
+D:\Program Files\HDevelop\HDevelop\bin\x64\Release\HDevelop.pdb
+D:\Program Files\HDevelop\HDevelop\obj\x64\Release\HDevelop.csproj.CoreCompileInputs.cache
+D:\Program Files\HDevelop\HDevelop\obj\x64\Release\HDevelop.exe
+D:\Program Files\HDevelop\HDevelop\obj\x64\Release\HDevelop.pdb

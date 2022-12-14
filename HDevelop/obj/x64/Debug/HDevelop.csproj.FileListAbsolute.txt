@@ -1,0 +1,7 @@
+D:\Program Files\HDevelop\HDevelop\HDevelop\bin\x64\Debug\HDevelop.exe.config
+D:\Program Files\HDevelop\HDevelop\HDevelop\bin\x64\Debug\HDevelop.exe
+D:\Program Files\HDevelop\HDevelop\HDevelop\bin\x64\Debug\HDevelop.pdb
+D:\Program Files\HDevelop\HDevelop\HDevelop\obj\x64\Debug\HDevelop.csproj.CoreCompileInputs.cache
+D:\Program Files\HDevelop\HDevelop\HDevelop\obj\x64\Debug\HDevelop.exe
+D:\Program Files\HDevelop\HDevelop\HDevelop\obj\x64\Debug\HDevelop.pdb
+D:\Program Files\HDevelop\HDevelop\HDevelop\obj\x64\Debug\HDevelop.csprojAssemblyReference.cache
